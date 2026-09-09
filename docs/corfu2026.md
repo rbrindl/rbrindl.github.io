@@ -2,7 +2,6 @@
 layout: page
 title: "Korfu 2026"
 permalink: /corfu2026
-theme: jekyll-theme-midnight
 ---
 
 # Corfu (Kerkyra) – Paxos – Antipaxos Sailing Itinerary
