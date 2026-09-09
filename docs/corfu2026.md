@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Korfu 2026"
 permalink: /corfu2026
 ---
